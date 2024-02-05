@@ -124,7 +124,7 @@
     position: relative;
     width: 100%;
     padding-top: 150px;
-    background-image: url('/images/rocket_img.png');
+    background-image: url('../images/rocket_img.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -184,7 +184,7 @@
 }
 
 .explore-products:hover img{
-    content: url('/images/arrow_white.png');
+    content: url('../images/arrow_white.png');
     padding-left: 10px;
     transition: all 0.5s;
 }
@@ -407,7 +407,7 @@
     justify-content: center;
     align-items: center;
     /* background-color: #ffffff; */
-    background-image: url('/images/footer-bg.png');
+    background-image: url('../images/footer-bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
